@@ -4,7 +4,7 @@ pygame.init()
 
 WINDOW_WIDTH = 1200
 WINDOW_HEIGHT = 600
-FPS = 20
+FPS = 25
 BLACK = (0, 0, 0)
 GREEN = (0, 255, 0)
 ADD_NEW_FLAME_RATE = 25
